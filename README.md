@@ -2,4 +2,4 @@
 - 👀 I’m interested in web development 
 - 🌱 I’m currently working on php and react basis project  
 - 💞️ I’m looking to collaborate on wordpress project
-- 📫 How to reach me ... admin@easeare.com OR https://easeare.com📨
+- 📫 How to reach me ... 📨 admin@easeare.com OR https://easeare.com
