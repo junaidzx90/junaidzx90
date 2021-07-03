@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @junaidzx90
+- 👋 Hi, I’m Junayed ---- @junaidzx90
 - 👀 I’m interested in web development 
-- 🌱 I’m currently working on php and react basis project  
-- 💞️ I’m looking to collaborate on wordpress project
+- 🌱 I’m currently working on php with wordpress
+- 💞️ I’m looking to collaborate on wordpress projects
 - 📫 How to reach me ... 📨 admin@easeare.com OR https://easeare.com
