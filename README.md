@@ -2,4 +2,3 @@
 - 👀 I’m interested in web development 
 - 🌱 I’m currently working on php with wordpress
 - 💞️ I’m looking to collaborate on wordpress projects
-- 📫 How to reach me ... 📨 https://www.upwork.com/o/profiles/users/~013cb8700c27145b4e/ AND https://www.fiverr.com/junaidzx90
